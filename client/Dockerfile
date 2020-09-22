@@ -1,4 +1,4 @@
-FROM node:latest AS CLIENT
+FROM node:12.18.4-alpine3.9 AS CLIENT
 
 LABEL maintainer="Luka Thuita <lthuita@gmail.com>"
 
