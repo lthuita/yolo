@@ -22,3 +22,8 @@
 
 ## Contact
   In case you need support, contact the maintainer through the email: lthuita@gmail.com
+
+## Docker Images
+the images used for the two containers - frontend and backend can be found on the dockerhub using the links below;
+- https://hub.docker.com/repository/docker/lthuita/yolo_backend   for the backend image and
+- https://hub.docker.com/repository/docker/lthuita/yolo_frontend   for the frontend image
